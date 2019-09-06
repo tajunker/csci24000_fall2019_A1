@@ -1,7 +1,7 @@
 
 Name: Tercio A. Junker
 Major: Computer Engineering
-Prior Experience: Started college, dropped out for a few startups, now working on finishing my computer engineering degree.
+Prior Experience: Some experience with software development, now working on finishing my computer engineering degree.
 Why You're in this class: To learn as much as I can about software engineering.
 Something Intersting about yourself: I'm passionate about music production.
 Hopes and Dreams: To be a full-stack software and hardware engineer.
